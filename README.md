@@ -58,8 +58,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eno-conan&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eno-conan&layout=compact&langs_count=8&theme=react" alt="Top Langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eno-conan&show_icons=true&theme=react&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eno-conan&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Langs"/>
 </p>
 
 ---
