@@ -8,10 +8,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 現場での実務経験を活かした開発を実践中
+- 💡 普段の読書や旅行などで得た気づきから技術を深めるのが好き
 - 📱 Flutterでのモバイルアプリ開発に注力
+- 🔧 現場での実務経験を活かした開発を実践中
 - 🤖 Claude Code を活用した効率的な開発スタイルを追求
-- 💡 実務で得た気づきを技術に落とし込むことが得意
 
 ---
 
@@ -21,8 +21,15 @@
   - より高度なFlutterアプリの設計と実装
 - 🧠 **Claude Codeによる仕様駆動開発**
   - AI支援による効率的な開発プロセスの確立
-- 🔥 **Native（Kotlin）への挑戦予定**
-  - Androidネイティブ開発のスキル習得
+- ~~🔥 **Native（Kotlin）への挑戦予定**~~
+  - ~~Androidネイティブ開発のスキル習得~~
+- 🗺️ **あしあと記録アプリの作成**
+  - Claude の利用と Next.js の定期的ブラッシュアップ
+  - `learn-auth-nextjs-aws`リポジトリで既に基本的な機能は作成済
+- 📚 **自身の興味分野の理解**
+  - `books-articles`リポジトリ
+  - 読んだ書籍と目を通したいと思ったWebサイトの情報をとにかくデータとして残す
+  - データが集まったら、私自身を改めて分析する作業を２０２６年年末に解析予定
 
 ---
 
@@ -55,15 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eno-conan&show_icons=true&theme=react&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eno-conan&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Langs"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -85,5 +83,5 @@
 ---
 
 <p align="center">
-  <i>⚡ "現場の課題を技術で解決する" - それが私の開発スタイル</i>
+  <i>⚡ "興味は尽きないし、何気ないところから開発が始まる" - それが私にとって充実した日々である</i>
 </p>
