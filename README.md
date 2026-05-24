@@ -76,12 +76,8 @@
 
 ---
 
-## 💭 Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
-
----
+## 💭 What Drives Me
 
 <p align="center">
-  <i>⚡ "興味は尽きないし、何気ないところから開発が始まる" - それが私にとって充実した日々である</i>
+  <i>⚡ "ふとしたきっかけで開発が始まる" - それが充実の日々につながる</i>
 </p>
