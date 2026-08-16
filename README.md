@@ -1,6 +1,6 @@
 # Hey there 👋, I'm eno-conan
 
-🚀 **現場作業を通じて気になったこと、Flutter、Claudeを用いた開発が2025年ホットな内容**
+🚀 **現場作業を通じて気になったこと、Flutter、Claudeを用いた開発が2025年からのホットな内容**
 
 ![Profile views](https://komarev.com/ghpvc/?username=eno-conan&color=blue)
 
@@ -80,4 +80,5 @@
 
 <p align="center">
   <i>⚡ "ふとしたきっかけで開発が始まる" - それが充実の日々につながる</i>
+  <i>"お前を救えるのは、お前しかいない" - 「ルーズヴェルトゲーム」より</i>
 </p>
